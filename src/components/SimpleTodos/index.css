@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  text-align: center;
+}
+.bg-container {
+  background-color: #ffffff;
+  width: 70%;
+  text-align: center;
+  padding: 5px;
+}
+.heading {
+  color: #ff8542;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.list-container {
+  list-style-type: none;
+  color: #000000;
+  font-size: 15px;
+  font-family: 'Roboto';
+  padding: 10px;
+}

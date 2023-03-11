@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-container {
+  padding: 10px;
+}
+.para {
+  color: #000000;
+  margin-bottom: 2px;
+}
+.button {
+  color: #ff0b37;
+  height: 20px;
+  width: 70px;
+  border-radius: 5px;
+  border-color: #ff0b37;
+  background-color: #ffffff;
+  border-width: 5px;
+}
